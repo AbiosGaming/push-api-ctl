@@ -1,0 +1,24 @@
+hash: bc40756c5dbde4cce84121293044214cf7fc3e2ef1c3a9f7662265b145ac44ab
+updated: 2018-04-06T12:20:48.273632809+02:00
+imports:
+- name: github.com/fatih/color
+  version: 507f6050b8568533fb3f5504de8e5205fa62a114
+- name: github.com/hokaccha/go-prettyjson
+  version: e6b9231a2b1cc5798b336fdbf99c16cd8ad1e0c9
+- name: github.com/inconshreveable/mousetrap
+  version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
+- name: github.com/mattn/go-colorable
+  version: efa589957cd060542a26d2dd7832fd6a6c6c3ade
+- name: github.com/mattn/go-isatty
+  version: 6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c
+- name: github.com/satori/go.uuid
+  version: f58768cc1a7a7e77a3bd49e98cdd21419399b6a3
+- name: github.com/spf13/cobra
+  version: a1f051bc3eba734da4772d60e2d677f47cf93ef4
+- name: github.com/spf13/pflag
+  version: 1ce0cc6db4029d97571db82f85092fccedb572ce
+- name: golang.org/x/sys
+  version: 1d206c9fa8975fb4cf00df1dc8bf3283dc24ba0e
+  subpackages:
+  - unix
+testImports: []
